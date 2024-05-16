@@ -76,7 +76,7 @@ This version is the new Azure VM extension for SAP solutions. With further impro
 * You want to install the VM extension with Terraform, Azure Resource Manager Templates or with other means than Azure CLI or Azure PowerShell
 * You want to install the extension on SUSE SLES 15 or higher
 * You want to install the extension on Red Hat Enterprise Linux 8.1 or higher
-* You want to install the extension on Oracle Linux 8.1 or higher 
+* You want to install the extension on Oracle Linux 8.1 or higher  
 * You want to use Azure Ultra Disk or Standard Managed Disks
 * Microsoft or SAP support asks you to install the new extension
  
